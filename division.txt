@@ -1,0 +1,5 @@
+a=int(input())
+if(a%3==0):
+    print("divisable by 3")
+else:
+    print("not divisable")
